@@ -6,3 +6,4 @@ Ejemplo de una nota
 
 ```nota```
 
+Sistema de registro
